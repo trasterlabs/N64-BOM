@@ -1,5 +1,5 @@
 |Designator|Value|Units| Is electrolytic |
-|------|-------|----|   |
+|------|-------|----|---|
 | C1   | 178.3 | nF |   |
 | C2   | 156.3 | nF |   |
 | C3   | 150.8 | nF |   |
